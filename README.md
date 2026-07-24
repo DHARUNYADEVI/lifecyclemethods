@@ -120,34 +120,27 @@ activity_main.xml
 
 #### 1.onCreate:
 
-<img width="1920" height="1080" alt="Screenshot (330)" src="https://github.com/user-attachments/assets/2596db9b-6d17-40e9-987a-a17420639ed6" />
+<img width="826" height="436" alt="image" src="https://github.com/user-attachments/assets/3726370e-e399-410a-af2c-d39d90dd81cb" />
+
 
 #### 2.onStart:
-<img width="1920" height="1080" alt="Screenshot (328)" src="https://github.com/user-attachments/assets/970546cd-30af-42b2-9262-52829a30d080" />
+<img width="822" height="443" alt="image" src="https://github.com/user-attachments/assets/1a7ef69d-6225-467e-bf93-2c7e62c70514" />
+
 
 
 #### 3.onPause:
 
-<img width="1920" height="1080" alt="Screenshot (327)" src="https://github.com/user-attachments/assets/d0a549f3-9e81-48fd-99db-4b37bf4a6e7a" />
+<img width="816" height="433" alt="image" src="https://github.com/user-attachments/assets/2f98383c-513a-45cf-a6e1-c476221da175" />
+
 
 #### 4.onResume:
 
-<img width="1920" height="1080" alt="Screenshot (332)" src="https://github.com/user-attachments/assets/108eec44-e9f9-4af2-867e-0f32392763ed" />
+<img width="812" height="436" alt="image" src="https://github.com/user-attachments/assets/692d81cd-7df3-4ad9-b4c4-193bef56dccd" />
+
 
 #### 5.onRestart:
 
-<img width="1920" height="1080" alt="Screenshot (337)" src="https://github.com/user-attachments/assets/acd20ea2-2094-4146-ba28-3aacc5002835" />
-
-
-
-
-
-
-
-
-
-
-
+<img width="822" height="433" alt="image" src="https://github.com/user-attachments/assets/bcaf9185-c631-455a-939e-c9f3c7063e33" />
 
 ## RESULT
 Thus a Simple Android Application create a HelloWorld Activity using all lifecycles methods to display messages using Android Studio is developed and executed successfully.
